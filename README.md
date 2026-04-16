@@ -31,6 +31,33 @@
 
 ---
 
+## 🚀 Featured Project: Recon-Toolkit v2
+
+<div align="center">
+
+**A high-performance, asynchronous web reconnaissance framework containerized for Cloud Native environments.**
+
+<br/>
+
+[![View Project Page](https://img.shields.io/badge/View_Full_Case_Study-bd93f9?style=for-the-badge&logo=react&logoColor=white)](https://liketosweep.github.io/projects/recon-toolkit)
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo_Video-ff79c6?style=for-the-badge&logo=youtube&logoColor=white)](https://liketosweep.github.io/projects/recon-toolkit#demo)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/liketosweep/recon-toolkit/main/assets/sample_output.gif" width="90%" alt="Recon-Toolkit Demo" />
+
+<br/>
+
+> *“Optimized for 10x speed using asyncio. Designed for Production Engineering.”*
+
+</div>
+
+### 🛠️ Why this matters for Engineering and Development:
+- **Architecture:** Transitioned from synchronous v1 to a fully asynchronous v2 engine.
+- **Observability:** Integrated `rich` for real-time terminal dashboards and progress tracking.
+- **Portability:** Fully Dockerized for seamless execution in Kubernetes and remote environments.
+
+---
 ## 🏆 Open Source & Proof of Work
 
 *A curated log of my journey in the open-source and Cloud Native ecosystem.*
@@ -44,6 +71,12 @@
 | 🔵 | **Issue Raised** | [Project Name Here] | [Describe the bug or feature, e.g., "Identified race condition in async worker"](LINK_TO_ISSUE) |
 | 📦 | **Maintainer** | [Recon-Toolkit](LINK_TO_RECON) | Architected a high-performance, asynchronous Python security tool. |
 
+</div>
+
+<div align="right">
+  <a href="https://liketosweep.github.io/#open-source">
+    <b>➡️ View my complete Open Source Portfolio & PR Log</b>
+  </a>
 </div>
 
 ---
