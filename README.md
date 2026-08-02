@@ -58,28 +58,6 @@
 - **Portability:** Fully Dockerized for seamless execution in Kubernetes and remote environments.
 
 ---
-## 🏆 Open Source & Proof of Work
-
-*A curated log of my journey in the open-source and Cloud Native ecosystem.*
-
-<div align="center">
-
-| Status | Contribution Type | Project / Repository | Details |
-| :---: | :--- | :--- | :--- |
-| 🟢 | **Merged PR** | [Project Name Here] | [Briefly describe what you fixed, e.g., "Refactored CLI error handling in Go"](LINK_TO_PR) |
-| 🟡 | **Active PR** | [Argo CD or Project Name] | [Describe the ongoing work, e.g., "Improving documentation for UI deployment"](LINK_TO_ACTIVE_PR) |
-| 🔵 | **Issue Raised** | [Project Name Here] | [Describe the bug or feature, e.g., "Identified race condition in async worker"](LINK_TO_ISSUE) |
-| 📦 | **Maintainer** | [Recon-Toolkit](LINK_TO_RECON) | Architected a high-performance, asynchronous Python security tool. |
-
-</div>
-
-<div align="right">
-  <a href="https://liketosweep.github.io/#open-source">
-    <b>➡️ View my complete Open Source Portfolio & PR Log</b>
-  </a>
-</div>
-
----
 
 ## ⚙️ The Arsenal
 
