@@ -1,17 +1,4 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Liketosweep+%F0%9F%91%BE;Security+Researcher+%F0%9F%94%90;Open+Source+Contributor+%E2%9A%99%EF%B8%8F;Building+Cloud+Native+Tools+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-
-<br/>
-
-> *"Securing systems from the outside in. Building infrastructure from the ground up."*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-liketosweep.github.io-bd93f9?style=for-the-badge&logo=githubpages&logoColor=white)](https://liketosweep.github.io/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-ff79c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ltsworkspace9239@gmail.com)
-
-</div>
 
 ---
 
